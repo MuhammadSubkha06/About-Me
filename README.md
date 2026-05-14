@@ -6,8 +6,8 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan so
 ---
 
 ### 🏆 Prestasi & Pengalaman
-* [cite_start]**Juara 3 LKS IT Solution for Business 2026** - Tingkat Jakarta Timur 1[cite: 1, 2, 3, 5].
-* [cite_start]Berpengalaman dalam membangun aplikasi inventaris cerdas (**SmartInventory**) untuk kebutuhan logistik[cite: 10, 11].
+* **Juara 3 LKS IT Solution for Business 2026** - Tingkat Jakarta Timur 1.
+* Berpengalaman dalam membangun aplikasi inventaris cerdas (**SmartInventory**) untuk kebutuhan logistik.
 
 ### 🛠️ Keahlian Teknis
 | Bidang | Teknologi |
@@ -18,8 +18,8 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan so
 | **Database** | SQL, MySQL |
 
 ### 🚀 Proyek Unggulan
-* [cite_start]**SmartInventory:** Aplikasi desktop untuk manajemen stok barang real-time[cite: 10].
-* [cite_start]**EsemkaTourism:** Aplikasi mobile panduan wisata dengan fitur rating dan bookmark[cite: 256, 351].
+* **SmartInventory:** Aplikasi desktop untuk manajemen stok barang real-time.
+* **EsemkaTourism:** Aplikasi mobile panduan wisata dengan fitur rating dan bookmark.
 * **Sistem-Perpustakaan:** Sistem perpustakaan digital.
 
 
