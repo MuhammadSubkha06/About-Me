@@ -27,4 +27,6 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan so
 * **LinkedIn:** [linkedin.com/in/muhammadsubkha](https://linkedin.com/in/muhammad-subkha-875808388)
 * **Email:** [email@kamu.com](mailto:muhammadsubkha6@gmail.com)
 
-<p align="center"><i>"Building logic with passion, delivering business solutions with precision."</i></p>
+
+---
+<p align="center"><i>*“Coding adalah cara saya memecahkan masalah dunia, satu baris setiap kalinya.”*</i></p>
