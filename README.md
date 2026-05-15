@@ -1,5 +1,5 @@
 # Halo, Saya Muhammad Subkha 👋
-> **Software Developer | LKS IT Solution for Business Bronze Medalist**
+> **Software Developer | LKS IT Solution for Business 3st**
 
 Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan solusi digital yang efisien dan inovatif. Memiliki pengalaman kompetisi yang kuat dalam membangun aplikasi bisnis yang terintegrasi.
 
