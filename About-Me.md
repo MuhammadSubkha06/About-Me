@@ -15,7 +15,7 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan so
 | **Web Development** | PHP (Laravel), JavaScript, HTML5, CSS3 |
 | **Mobile Development** | Kotlin, Flutter, Dart |
 | **Desktop Development** | C# (.NET / Visual Studio) |
-| **Database** | SQL, MySQL |
+| **Database** | SQL, REST API |
 
 ### 🚀 Proyek Unggulan
 * **SmartInventory:** Aplikasi desktop untuk manajemen stok barang real-time.
